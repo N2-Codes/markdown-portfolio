@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+* Coding
+* Playing Video Games
+* Drawing
+* Reading
+  * Novels
+  * Mangas
+  * Comic Books
